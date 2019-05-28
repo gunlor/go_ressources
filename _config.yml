@@ -14,8 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Go training
-url: "https://gunlor.github.io"
-baseurl: "/go_training"
+url: ""
 
 # Build settings
 markdown: kramdown
